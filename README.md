@@ -1,4 +1,4 @@
-Sure! Here's the GitHub-friendly `README.md` for your **Event Manager** Django app. You can copy and paste this directly into a `README.md` file in your repo:
+**Event Manager Django Application**
 
 ```markdown
 # Event Manager
